@@ -1,0 +1,2 @@
+[functions.contact-api]
+verify_jwt = false
